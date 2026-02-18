@@ -85,12 +85,12 @@ clean: CMakeFiles/phylactery.dir/clean
 CMakeFiles/phylactery.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/phylactery.dir/build.make CMakeFiles/phylactery.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/phylactery.dir/build.make CMakeFiles/phylactery.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/l1ch/Documents/github/phylactery/build/CMakeFiles --progress-num=1,2,3 "Built target phylactery"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/l1ch/Documents/github/phylactery/build/CMakeFiles --progress-num=1,2 "Built target phylactery"
 .PHONY : CMakeFiles/phylactery.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/phylactery.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/l1ch/Documents/github/phylactery/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/l1ch/Documents/github/phylactery/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/phylactery.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/l1ch/Documents/github/phylactery/build/CMakeFiles 0
 .PHONY : CMakeFiles/phylactery.dir/rule
@@ -102,7 +102,7 @@ phylactery: CMakeFiles/phylactery.dir/rule
 # codegen rule for target.
 CMakeFiles/phylactery.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/phylactery.dir/build.make CMakeFiles/phylactery.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/l1ch/Documents/github/phylactery/build/CMakeFiles --progress-num=1,2,3 "Finished codegen for target phylactery"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/l1ch/Documents/github/phylactery/build/CMakeFiles --progress-num=1,2 "Finished codegen for target phylactery"
 .PHONY : CMakeFiles/phylactery.dir/codegen
 
 # clean rule for target.

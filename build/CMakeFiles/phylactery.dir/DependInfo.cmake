@@ -9,7 +9,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/l1ch/Documents/github/phylactery/main.cpp" "CMakeFiles/phylactery.dir/main.cpp.o" "gcc" "CMakeFiles/phylactery.dir/main.cpp.o.d"
-  "/home/l1ch/Documents/github/phylactery/shader.cpp" "CMakeFiles/phylactery.dir/shader.cpp.o" "gcc" "CMakeFiles/phylactery.dir/shader.cpp.o.d"
   "" "phylactery" "gcc" "CMakeFiles/phylactery.dir/link.d"
   )
 

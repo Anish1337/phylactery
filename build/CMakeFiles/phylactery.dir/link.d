@@ -3,10 +3,9 @@ phylactery: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o \
   CMakeFiles/phylactery.dir/main.cpp.o \
-  CMakeFiles/phylactery.dir/shader.cpp.o \
+  /usr/lib/libglfw.so.3.4 \
   /usr/lib/libGLX.so \
   /usr/lib/libOpenGL.so \
-  /usr/lib/libSDL2.so \
   /usr/lib/libepoxy.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
@@ -54,13 +53,11 @@ phylactery: \
 
 CMakeFiles/phylactery.dir/main.cpp.o:
 
-CMakeFiles/phylactery.dir/shader.cpp.o:
+/usr/lib/libglfw.so.3.4:
 
 /usr/lib/libGLX.so:
 
 /usr/lib/libOpenGL.so:
-
-/usr/lib/libSDL2.so:
 
 /usr/lib/libepoxy.so:
 

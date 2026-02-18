@@ -7,20 +7,19 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # ── Dependencies ──────────────────────────────────────────────
 find_package(OpenGL REQUIRED)
+find_package(glfw3  REQUIRED)
 find_package(PkgConfig REQUIRED)
 
-pkg_check_modules(SDL2  REQUIRED IMPORTED_TARGET sdl2)
 pkg_check_modules(EPOXY REQUIRED IMPORTED_TARGET epoxy)
 
 # ── Executable ────────────────────────────────────────────────
 add_executable(${PROJECT_NAME}
     main.cpp
-    shader.cpp
 )
 
 target_link_libraries(${PROJECT_NAME}
     PRIVATE
         OpenGL::GL
-        PkgConfig::SDL2
+        glfw
         PkgConfig::EPOXY
 )
