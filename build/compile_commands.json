@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/l1ch/Documents/github/phylactery/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2 -O3 -DNDEBUG -std=gnu++17 -D_GNU_SOURCE=1 -D_REENTRANT -o CMakeFiles/phylactery.dir/main.cpp.o -c /home/l1ch/Documents/github/phylactery/main.cpp",
+  "file": "/home/l1ch/Documents/github/phylactery/main.cpp",
+  "output": "CMakeFiles/phylactery.dir/main.cpp.o"
+},
+{
+  "directory": "/home/l1ch/Documents/github/phylactery/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2 -O3 -DNDEBUG -std=gnu++17 -D_GNU_SOURCE=1 -D_REENTRANT -o CMakeFiles/phylactery.dir/shader.cpp.o -c /home/l1ch/Documents/github/phylactery/shader.cpp",
+  "file": "/home/l1ch/Documents/github/phylactery/shader.cpp",
+  "output": "CMakeFiles/phylactery.dir/shader.cpp.o"
+}
+]

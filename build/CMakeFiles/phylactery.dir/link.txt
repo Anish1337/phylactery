@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/phylactery.dir/link.d CMakeFiles/phylactery.dir/main.cpp.o CMakeFiles/phylactery.dir/shader.cpp.o -o phylactery  /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libSDL2.so /usr/lib/libepoxy.so

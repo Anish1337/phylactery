@@ -1,0 +1,3 @@
+/home/l1ch/Documents/github/phylactery/build/CMakeFiles/phylactery.dir
+/home/l1ch/Documents/github/phylactery/build/CMakeFiles/edit_cache.dir
+/home/l1ch/Documents/github/phylactery/build/CMakeFiles/rebuild_cache.dir
